@@ -1,0 +1,3 @@
+import Ignition
+
+Ignition.main()
